@@ -1,0 +1,30 @@
+{
+  "name": "smartvalor_nodejs",
+  "version": "1.0.0",
+  "description": "node_interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorustinov/nodejs_interface.git"
+  },
+  "keywords": [
+    "node.js",
+    "hyperledger"
+  ],
+  "author": "ustinovi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/igorustinov/nodejs_interface/issues"
+  },
+  "homepage": "https://github.com/igorustinov/nodejs_interface#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7"
+  }
+}
